@@ -3,4 +3,4 @@
 
 ## Antes de Empezar 
 
- Revisar la guia de laboratorio
+ Revisar la guia de laboratorio" Nuevo Cambio " 
